@@ -1,1 +1,1 @@
-# blognews
+/news.html
